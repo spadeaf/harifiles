@@ -1,0 +1,38 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group
+        android:translateX="4"
+        android:translateY="4">
+        <!-- Main Folder Back -->
+        <path
+            android:fillColor="#1E293B"
+            android:pathData="M20,24 L44,24 L52,32 L80,32 C84.4,32 88,35.6 88,40 L88,76 C88,80.4 84.4,84 80,84 L20,84 C15.6,84 12,80.4 12,76 L12,32 C12,27.6 15.6,24 20,24 Z" />
+        <!-- Folder Front Glow Surface -->
+        <path
+            android:fillColor="#00E599"
+            android:pathData="M12,42 L88,42 L88,76 C88,80.4 84.4,84 80,84 L20,84 C15.6,84 12,80.4 12,76 Z" />
+        <path
+            android:fillColor="#131B26"
+            android:pathData="M16,46 L84,46 L84,74 C84,77.3 81.3,80 78,80 L22,80 C18.7,80 16,77.3 16,74 Z" />
+        <!-- Stylized Neon H in the center -->
+        <!-- Left bar -->
+        <path
+            android:fillColor="#00E599"
+            android:pathData="M38,54 L44,54 L44,72 L38,72 Z" />
+        <!-- Right bar -->
+        <path
+            android:fillColor="#2DD4BF"
+            android:pathData="M56,54 L62,54 L62,72 L56,72 Z" />
+        <!-- Crossbar -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M44,61 L56,61 L56,65 L44,65 Z" />
+        <!-- Center Spark -->
+        <path
+            android:fillColor="#00E599"
+            android:pathData="M50,59 L53,63 L50,67 L47,63 Z" />
+    </group>
+</vector>

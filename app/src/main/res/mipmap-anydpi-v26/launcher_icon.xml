@@ -6,7 +6,7 @@
   -->
 
 <adaptive-icon xmlns:android="http://schemas.android.com/apk/res/android">
-    <background android:drawable="@color/color_primary_light" />
-    <foreground android:drawable="@mipmap/launcher_icon_foreground" />
-    <monochrome android:drawable="@drawable/launcher_icon_monochrome" />
+    <background android:drawable="@color/color_surface_dark" />
+    <foreground android:drawable="@drawable/hari_files_icon_foreground" />
+    <monochrome android:drawable="@drawable/hari_files_icon_foreground" />
 </adaptive-icon>
